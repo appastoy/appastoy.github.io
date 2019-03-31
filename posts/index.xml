@@ -89,9 +89,12 @@
 </code></pre></div>
 <p><em>이것은 한글</em></p>
 
-<p><u>이것은 한글</u>
-&gt; 이것은 한글asdfasdf.
-&gt; 왜 이것은 안되나?</p>
+<p><u>이것은 한글</u></p>
+
+<blockquote>
+<p>이것은 한글asdfasdf.
+왜 이것은 안되나?</p>
+</blockquote>
 
 <p><a href="https://naver.com">Naver</a></p>
 ]]></content>
