@@ -16,7 +16,7 @@
 			<pubDate>Sun, 31 Mar 2019 18:40:50 +0900</pubDate>
 			
 			<guid>https://appastoy.github.io/posts/test/</guid>
-			<description>Test Title 1 Test Title 2 Test Title 3 Test Title 4 Test Title 5 Test Title 6 1234 2445 123123 1241241 123123 1234 123124 123124 12341234 asdfasdf 이것은 한글 이것은 한글 이것은 한글 이것은 장문의 한글 ㅁㄴㅇㄻㄴㅇㄹ ㅁㄴㅇㄻㄴㅇㄹ ㅁㄴㅇㄻㄴ</description>
+			<description>Test Title 1 Test Title 2 Test Title 3 Test Title 4 Test Title 5 Test Title 6 1234 2445 123123 1241241 123123 1234 123124 123124 12341234 asdfasdf 이것은 한글 이것은 한글 이것은 한글 asdfsad 이것은 장문의 한글 ㅁㄴㅇㄻㄴㅇㄹ ㅁㄴㅇㄻㄴㅇㄹ ㅁㄴㅇㄻ</description>
 			<content type="html"><![CDATA[
 
 <h1 id="test-title-1">Test Title 1</h1>
@@ -61,12 +61,12 @@
 
 <p><del>이것은 한글</del></p>
 
-<p><code>이것은 한글</code></p>
+<p><code>이것은 한글</code> asdfsad</p>
 
 <pre><code>이것은 장문의 한글  
 ㅁㄴㅇㄻㄴㅇㄹ
 ㅁㄴㅇㄻㄴㅇㄹ  
-ㅁㄴㅇㄻㄴㅇㄹ
+ㅁㄴㅇㄻㄴㅇㄹ 
 ㅁㄴㅇㄻㄴㅇㄹ 
 ㅁㄴㅇㄻㄴㅇㄹ    
 </code></pre>
