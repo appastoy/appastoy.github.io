@@ -67,6 +67,24 @@
     </item>
     
     <item>
+      <title>Tag1</title>
+      <link>https://appastoy.github.io/tags/tag1/</link>
+      <pubDate>Sun, 31 Mar 2019 18:40:50 +0900</pubDate>
+      
+      <guid>https://appastoy.github.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>https://appastoy.github.io/tags/tag2/</link>
+      <pubDate>Sun, 31 Mar 2019 18:40:50 +0900</pubDate>
+      
+      <guid>https://appastoy.github.io/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Templates</title>
       <link>https://appastoy.github.io/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -81,15 +99,6 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://appastoy.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Typography</title>
-      <link>https://appastoy.github.io/tags/typography/</link>
-      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
-      
-      <guid>https://appastoy.github.io/tags/typography/</guid>
       <description></description>
     </item>
     
