@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 02:02:44 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2019 01:29:41 +0900</lastBuildDate>
     
 	<atom:link href="https://appastoy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>untagged</title>
       <link>https://appastoy.github.io/tags/untagged/</link>
-      <pubDate>Mon, 01 Apr 2019 02:02:44 +0900</pubDate>
+      <pubDate>Wed, 03 Apr 2019 01:29:41 +0900</pubDate>
       
       <guid>https://appastoy.github.io/tags/untagged/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     </item>
     
     <item>
-      <title>demo</title>
+      <title>Demo</title>
       <link>https://appastoy.github.io/tags/demo/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
       
