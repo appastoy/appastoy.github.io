@@ -3,13 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://appastoy.github.io/</loc>
+    <lastmod>2019-04-01T02:02:44+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appastoy.github.io/posts/</loc>
+    <lastmod>2019-04-01T02:02:44+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appastoy.github.io/tags/</loc>
+    <lastmod>2019-04-01T02:02:44+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://appastoy.github.io/posts/test3/</loc>
     <lastmod>2019-04-01T02:02:44+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://appastoy.github.io/tags/untagged/</loc>
+    <lastmod>2019-04-01T02:02:44+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://appastoy.github.io/posts/test2/</loc>
     <lastmod>2019-04-01T01:58:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://appastoy.github.io/tags/asdfas/</loc>
+    <lastmod>2019-04-01T01:58:41+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appastoy.github.io/tags/asdfasdf/</loc>
+    <lastmod>2019-04-01T01:58:41+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appastoy.github.io/tags/tag1/</loc>
+    <lastmod>2019-03-31T18:40:50+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appastoy.github.io/tags/tag2/</loc>
+    <lastmod>2019-03-31T18:40:50+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -23,8 +71,26 @@
   </url>
   
   <url>
+    <loc>https://appastoy.github.io/tags/demo/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://appastoy.github.io/tags/image/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://appastoy.github.io/posts/post-with-featured-image/</loc>
     <lastmod>2018-10-01T16:15:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://appastoy.github.io/tags/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -53,35 +119,6 @@
   </url>
   
   <url>
-    <loc>https://appastoy.github.io/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://appastoy.github.io/tags/asdfas/</loc>
-    <lastmod>2019-04-01T01:58:41+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://appastoy.github.io/tags/asdfasdf/</loc>
-    <lastmod>2019-04-01T01:58:41+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://appastoy.github.io/</loc>
-    <lastmod>2019-04-01T02:02:44+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://appastoy.github.io/tags/demo/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://appastoy.github.io/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -106,36 +143,6 @@
   </url>
   
   <url>
-    <loc>https://appastoy.github.io/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://appastoy.github.io/posts/</loc>
-    <lastmod>2019-04-01T02:02:44+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://appastoy.github.io/tags/tag1/</loc>
-    <lastmod>2019-03-31T18:40:50+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://appastoy.github.io/tags/tag2/</loc>
-    <lastmod>2019-03-31T18:40:50+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://appastoy.github.io/tags/</loc>
-    <lastmod>2019-04-01T01:58:41+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://appastoy.github.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -148,15 +155,8 @@
   </url>
   
   <url>
-    <loc>https://appastoy.github.io/tags/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://appastoy.github.io/tags/untagged/</loc>
-    <lastmod>2019-04-01T02:02:44+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://appastoy.github.io/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
